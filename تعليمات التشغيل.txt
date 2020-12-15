@@ -1,0 +1,4 @@
+Project was built with React native thus { Node needs to be downloaded: https://nodejs.org/en/download/ }
+
+After installing node, navigate to the project directory, and open CMD, then run "npm install" which will install dependencies. Then,
+write "expo start" to run the project. To test the project, download "Expo Client" on your actual phone, and scan the barcode on the screen to test the application.
